@@ -4,7 +4,7 @@ theme = "cleanwhite"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "tamakichi-blog"
-googleAnalytics = ""
+googleAnalytics = "UA-175473749-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
@@ -76,7 +76,7 @@ home = ["HTML", "RSS", "Algolia"]
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  #github         = "https://github.com/katotaku1192"
+  github         = "https://github.com/katotaku1192"
   #wechat         = "your wechat qr code image"
 #  medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
