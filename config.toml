@@ -35,7 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "地方大学の工学部生　ロボット・ものづくりに興味があります"
+  sidebar_about_description = "工学系の大学院生　ロボットや宇宙、自然に興味があります"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/tamakichi.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -68,7 +68,7 @@ home = ["HTML", "RSS", "Algolia"]
   highlightjs = "docco"
 
   [params.social]
-  rss            = true 
+  #rss            = true 
   #email          = "katotaku192@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
